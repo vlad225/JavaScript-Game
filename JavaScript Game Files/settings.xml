@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+    <levels>
+        <beginner>
+            <zombieCount>10</zombieCount>
+			<zombieSpawnTime> 5 </zombieSpawnTime>
+            <zombieMoveSpeed>40</zombieMoveSpeed>
+            <playerMoveSpeed>80</playerMoveSpeed>
+        </beginner>
+        <intermediate>
+            <zombieCount>20</zombieCount>
+			<zombieSpawnTime> 3 </zombieSpawnTime>
+            <zombieMoveSpeed>50</zombieMoveSpeed>
+            <playerMoveSpeed>80</playerMoveSpeed>
+        </intermediate>
+        <expert>
+            <zombieCount>30</zombieCount>
+			<zombieSpawnTime> 1 </zombieSpawnTime>
+            <zombieMoveSpeed>70</zombieMoveSpeed>
+            <playerMoveSpeed>80</playerMoveSpeed>
+        </expert>
+    </levels>
+    <bullets>
+        <bullet id="g0">
+            <name>glont de baza</name>
+            <image>im_g0</image><!-- id-ul imaginii corespunzatoare -->
+            <damage>10</damage>
+            <speed>200</speed>
+        </bullet>
+        <bullet id="g1">
+            <name>glont mega</name>
+            <image>im_g1</image><!-- id-ul imaginii corespunzatoare -->
+            <damage>50</damage>
+            <speed>250</speed>
+        </bullet>
+        <bullet id="g2">
+            <name>super glont</name>
+            <image>im_g2</image><!-- id-ul imaginii corespunzatoare -->
+            <damage>100</damage>
+            <speed>300</speed>
+        </bullet>
+    </bullets>
+</settings>

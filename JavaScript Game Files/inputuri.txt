@@ -1,0 +1,7 @@
+range: viteza
+text:numele jucatorului
+checkbox: zombies male/female
+radio: limba
+select: dificultate
+select multiplu: ce info sa afiseze
+textarea: trimite o opinie

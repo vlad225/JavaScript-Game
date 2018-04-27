@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<images id="img">
+		<img id="obstacle">
+			images/obstacle.png
+		</img>
+	
+		<img id="menubtn">
+			images/menu/menubutton.png
+		</img>
+	
+		<img type="buff" id="life">
+			images/life.png
+		</img>
+		
+		<img type="background" id="back">
+			images/background.jpg
+		</img>
+
+		<img type="cursor" id="crs">
+			images/cursor.cur
+		</img>
+		
+		<img type="bullet" w="50" h="50" id="bullet">
+			images/bullets/Bullet.png
+		</img>
+		
+		
+		<img id="pi1">
+			images/player/Idle (1).png
+		</img>
+		<img id="pi2">
+			images/player/Idle (2).png
+		</img>
+		<img id="pi3">
+			images/player/Idle (3).png
+		</img>
+		<img id="pi4">
+			images/player/Idle (4).png
+		</img>
+		<img id="pi5">
+			images/player/Idle (5).png
+		</img>
+		<img id="pi6">
+			images/player/Idle (6).png
+		</img>
+		<img id="pi7">
+			images/player/Idle (7).png
+		</img>
+		<img id="pi8">
+			images/player/Idle (8).png
+		</img>
+		<img id="pi9">
+			images/player/Idle (9).png
+		</img>
+		<img id="pi10">
+			images/player/Idle (10).png
+		</img>
+		
+		<img id="pr1">
+			images/player/Run (1).png
+		</img>
+		<img id="pr2">
+			images/player/Run (2).png
+		</img>
+		<img id="pr3">
+			images/player/Run (3).png
+		</img>
+		<img id="pr4">
+			images/player/Run (4).png
+		</img>
+		<img id="pr5">
+			images/player/Run (5).png
+		</img>
+		<img id="pr6">
+			images/player/Run (6).png
+		</img>
+		<img id="pr7">
+			images/player/Run (7).png
+		</img>
+		<img id="pr8">
+			images/player/Run (8).png
+		</img>
+		
+		<img id="pss1">
+			images/player/Shoot (1).png
+		</img>
+		<img id="pss2">
+			images/player/Shoot (2).png
+		</img>
+		<img id="pss3">
+			images/player/Shoot (3).png
+		</img>
+		<img id="pss4">
+			images/player/Shoot (4).png
+		</img>
+		
+		<img id="prs1">
+			images/player/RunShoot (1).png
+		</img>
+		<img id="prs2">
+			images/player/RunShoot (2).png
+		</img>
+		<img id="prs3">
+			images/player/RunShoot (3).png
+		</img>
+		<img id="prs4">
+			images/player/RunShoot (4).png
+		</img>
+		<img id="prs5">
+			images/player/RunShoot (5).png
+		</img>
+		<img id="prs6">
+			images/player/RunShoot (6).png
+		</img>
+		<img id="prs7">
+			images/player/RunShoot (7).png
+		</img>
+		<img id="prs8">
+			images/player/RunShoot (8).png
+		</img>
+		
+		<img id="pd1">
+			images/player/Dead (1).png
+		</img>
+		<img id="pd2">
+			images/player/Dead (2).png
+		</img>
+		<img id="pd3">
+			images/player/Dead (3).png
+		</img>
+		<img id="pd4">
+			images/player/Dead (4).png
+		</img>
+		<img id="pd5">
+			images/player/Dead (5).png
+		</img>
+		<img id="pd6">
+			images/player/Dead (6).png
+		</img>
+		<img id="pd7">
+			images/player/Dead (7).png
+		</img>
+		<img id="pd8">
+			images/player/Dead (8).png
+		</img>
+		<img id="pd9">
+			images/player/Dead (9).png
+		</img>
+		<img id="pd10">
+			images/player/Dead (10).png
+		</img>
+	
+	
+		<!--> m/f z w/a/d = male/female zombie walk/attack/death<-->
+		<img id="mzw1">
+			images/zombies/male/Walk (1).png
+		</img>
+		<img id="mzw2">
+			images/zombies/male/Walk (2).png
+		</img>
+		<img id="mzw3">
+			images/zombies/male/Walk (3).png
+		</img>
+		<img id="mzw4">
+			images/zombies/male/Walk (4).png
+		</img>
+		<img id="mzw5">
+			images/zombies/male/Walk (5).png
+		</img>
+		<img id="mzw6">
+			images/zombies/male/Walk (6).png
+		</img>
+		<img id="mzw7">
+			images/zombies/male/Walk (7).png
+		</img>
+		<img id="mzw8">
+			images/zombies/male/Walk (8).png
+		</img>
+		<img id="mzw9">
+			images/zombies/male/Walk (9).png
+		</img>
+		<img id="mzw10">
+			images/zombies/male/Walk (10).png
+		</img>
+		
+		
+		
+		<img id="mza1">
+			images/zombies/male/Attack (1).png
+		</img>
+		<img id="mza2">
+			images/zombies/male/Attack (2).png
+		</img>
+		<img id="mza3">
+			images/zombies/male/Attack (3).png
+		</img>
+		<img id="mza4">
+			images/zombies/male/Attack (4).png
+		</img>
+		<img id="mza5">
+			images/zombies/male/Attack (5).png
+		</img>
+		<img id="mza6">
+			images/zombies/male/Attack (6).png
+		</img>
+		<img id="mza7">
+			images/zombies/male/Attack (7).png
+		</img>
+		<img id="mza8">
+			images/zombies/male/Attack (8).png
+		</img>
+		
+		
+		<img id="mzd1">
+			images/zombies/male/Dead (1).png
+		</img>
+		<img id="mzd2">
+			images/zombies/male/Dead (2).png
+		</img>
+		<img id="mzd3">
+			images/zombies/male/Dead (3).png
+		</img>
+		<img id="mzd4">
+			images/zombies/male/Dead (4).png
+		</img>
+		<img id="mzd5">
+			images/zombies/male/Dead (5).png
+		</img>
+		<img id="mzd6">
+			images/zombies/male/Dead (6).png
+		</img>
+		<img id="mzd7">
+			images/zombies/male/Dead (7).png
+		</img>
+		<img id="mzd8">
+			images/zombies/male/Dead (8).png
+		</img>
+		<img id="mzd9">
+			images/zombies/male/Dead (9).png
+		</img>
+		<img id="mzd10">
+			images/zombies/male/Dead (10).png
+		</img>
+		<img id="mzd11">
+			images/zombies/male/Dead (11).png
+		</img>
+		<img id="mzd12">
+			images/zombies/male/Dead (12).png
+		</img>
+		
+		
+		
+		<img id="fzw1">
+			images/zombies/female/Walk (1).png
+		</img>
+		<img id="fzw2">
+			images/zombies/female/Walk (2).png
+		</img>
+		<img id="fzw3">
+			images/zombies/female/Walk (3).png
+		</img>
+		<img id="fzw4">
+			images/zombies/female/Walk (4).png
+		</img>
+		<img id="fzw5">
+			images/zombies/female/Walk (5).png
+		</img>
+		<img id="fzw6">
+			images/zombies/female/Walk (6).png
+		</img>
+		<img id="fzw7">
+			images/zombies/female/Walk (7).png
+		</img>
+		<img id="fzw8">
+			images/zombies/female/Walk (8).png
+		</img>
+		<img id="fzw9">
+			images/zombies/female/Walk (9).png
+		</img>
+		<img id="fzw10">
+			images/zombies/female/Walk (10).png
+		</img>
+		
+		
+		
+		<img id="fza1">
+			images/zombies/female/Attack (1).png
+		</img>
+		<img id="fza2">
+			images/zombies/female/Attack (2).png
+		</img>
+		<img id="fza3">
+			images/zombies/female/Attack (3).png
+		</img>
+		<img id="fza4">
+			images/zombies/female/Attack (4).png
+		</img>
+		<img id="fza5">
+			images/zombies/female/Attack (5).png
+		</img>
+		<img id="fza6">
+			images/zombies/female/Attack (6).png
+		</img>
+		<img id="fza7">
+			images/zombies/female/Attack (7).png
+		</img>
+		<img id="fza8">
+			images/zombies/female/Attack (8).png
+		</img>
+		
+		
+		<img id="fzd1">
+			images/zombies/female/Dead (1).png
+		</img>
+		<img id="fzd2">
+			images/zombies/female/Dead (2).png
+		</img>
+		<img id="fzd3">
+			images/zombies/female/Dead (3).png
+		</img>
+		<img id="fzd4">
+			images/zombies/female/Dead (4).png
+		</img>
+		<img id="fzd5">
+			images/zombies/female/Dead (5).png
+		</img>
+		<img id="fzd6">
+			images/zombies/female/Dead (6).png
+		</img>
+		<img id="fzd7">
+			images/zombies/female/Dead (7).png
+		</img>
+		<img id="fzd8">
+			images/zombies/female/Dead (8).png
+		</img>
+		<img id="fzd9">
+			images/zombies/female/Dead (9).png
+		</img>
+		<img id="fzd10">
+			images/zombies/female/Dead (10).png
+		</img>
+		<img id="fzd11">
+			images/zombies/female/Dead (11).png
+		</img>
+		<img id="fzd12">
+			images/zombies/female/Dead (12).png
+		</img>
+	</images>
+</resources>

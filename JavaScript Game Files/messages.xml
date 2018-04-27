@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lang>
+    <messages id="ro">
+		<msg id="optlives">
+			Vieti
+		</msg>
+		<msg id="optscore">
+			Scor
+		</msg>
+		<msg id="opthighscore">
+			Scor mare
+		</msg>
+		<msg id="optbeg">
+			Incepator
+		</msg>
+		<msg id="optint">
+			Intermediar
+		</msg>
+		<msg id="optadv">
+			Avansat
+		</msg>
+		<msg id="rangeinput">
+			Viteza jocului: de la 1 (normal) la 2 (de doua ori mai rapid)
+		</msg>
+		<msg id="txtinput">
+			Numele jucatorului
+		</msg>
+		<msg id="checkinput">
+			Barbat / Femeie Zombii
+		</msg>
+		<msg id="radioinput">
+			Limba ro / en
+		</msg>
+		<msg id="help">
+			In acest joc trebuie sa omori zombii care invadeaza net cafe-ul
+			Apasa butonul stang al mouse-ului pentru a trage
+			Apasa M pentru a te misca in directia cursor-ului
+			Apasa P pentru a pauza jocul
+			Apasa Q pentru a te intoarce la meniul principal
+		</msg>
+		<msg id="menustart">
+			Start
+		</msg>
+		<msg id="menuoptions">
+			Optiuni
+		</msg>
+		<msg id="menuhelp">
+			Ajutor
+		</msg>
+		<msg id="menuhighscores">
+			Scoruri
+		</msg>
+		<msg id="unpause">
+			Apăsați ok pentru a continua jocul.
+		</msg>
+        <msg id="loss">
+            Ai pierdut.
+        </msg>
+        <msg id="win">
+            Ai castigat!
+        </msg>
+    </messages>
+    <messages id="en">
+		<msg id="rangeinput">
+			Game Speed: from 1 (normal) to 2 (twice as fast)
+		</msg>
+		<msg id="txtinput">
+			Player name
+		</msg>
+		<msg id="checkinput">
+			Male / Female Zombies
+		</msg>
+		<msg id="radioinput">
+			Language ro / en
+		</msg>
+		<msg id="help">
+			In this game you have to kill the zombies invading the net cafe
+			Press the left mouse button to shoot
+			Press M to move towards the cursor
+			Press P to pause the game
+			Press Q to return to main menu
+		</msg>
+		<msg id="menustart">
+			Start
+		</msg>
+		<msg id="menuoptions">
+			Options
+		</msg>
+		<msg id="menuhelp">
+			Help
+		</msg>
+		<msg id="menuhighscores">
+			Highscores
+		</msg>
+		<msg id="unpause">
+			Press ok to unpause the game.
+		</msg>
+        <msg id="loss">
+            You lost.
+        </msg>
+        <msg id="win">
+            You won!
+        </msg>
+    </messages>
+</lang>

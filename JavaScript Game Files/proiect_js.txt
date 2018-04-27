@@ -1,0 +1,23 @@
+Isaia Vlad
+
+Net cafe cu zombies
+
+Jucatorul are NV vieti
+Pe ecranul de joc vor exista cateva intrari in net cafe (reprezentate prin divuri).
+(setInterval, random, miscare independenta) La fiecare N milisecunde apare printr-o intrare random un zombie. Acesta incepe sa se deplaseze spre jucator.
+Daca jucatorul isi schimba pozitia zombie-ul isi ajusteaza traiectoria, ca sa mearga in continuare spre jucator. 
+Zombie-ul poate trece peste obiectele de mobila (patratelee din desen) - nu le ocoleste ci trece in linie dreapta peste ele.
+(ev tastatura, coord cursor) Jucatorul se poate deplasa pe ecran, apasand tasta "m". El va "face un pas" in directia cursorului. 
+Jucatorul ca si zombii se poate deplasa peste obiectele de mobilier.
+(ev mouse, coliziune) Jucatorul poate sa traga gloante facand un mousedown. 
+La fiecare eveniment mousedown porneste un glont dinspre jucator spre pozitia cursorului si merge in aceasta directie pana cand:
+- iese din containerul jocului
+- atinge un obstacol (obiect de mobilier) caz in care glontul dispare
+- atinge un zombie caz in care glontul dispare. Intr-un zombie trebuie tras de Y ori (de exeplu Y=3) ca sa moara si sa dispara de pe ecran.
+Jucatorul pierde o viata de fiecare data cand e atins de un zombie. Cand un zombie atinge jucatorul zombie-ul dispare.
+Cand un zombie moare impuscat, cu o probabilitate de 1/4 se genereaza il locul lui o inima. 
+Daca jucatorul se deplaseaza spre ea si o atinge, castiga o viata. 
+Inima, din momentul generarii, ramane W milisecunde pe ecran (de exemplu W=5000) si apoi dispare (setTimeout). 
+
+Jocul se termina cand NV ajunge la zero.
+ 
